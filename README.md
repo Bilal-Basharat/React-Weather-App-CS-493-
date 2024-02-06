@@ -1,6 +1,6 @@
 # React-Weather-App-CS-493
 
-This project aims to implement weather app using react.JS with AJAX techniques. The purpose of this project is to implement web app to learn more about AJAX techniques. I have implmented open weather map's API to fetch weather data based on location. Here is the link of the API:
+This project aims to implement weather app using react.JS with AJAX techniques. In this application there is a text box in which we have to put the location of the place for which we have to get weather condition and then we have to click on the search button. After clicking on the search button the API calls and data is fetched based on the entered location below the search button. The purpose of this project is to implement web app to learn more about AJAX techniques. I have implmented open weather map's API to fetch weather data based on location. Here is the link of the API:
 https://openweathermap.org/api
 
 # Getting Started with Create React App
